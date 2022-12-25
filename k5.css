@@ -1,0 +1,21 @@
+#right{
+    text-align: right;
+}
+#green{
+    background-color: #3C6255;
+    height: 150px;
+    width: 100% ;
+    font-size: 120%;
+}
+p{
+    font-size: 150%;
+}
+span{
+    font-size: 60%;
+}
+body{
+    background-color:#EAFDFC ;
+}
+table{
+    background-color: blanchedalmond;
+}
